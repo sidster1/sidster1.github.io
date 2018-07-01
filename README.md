@@ -8,13 +8,13 @@ Information Management professional with 3 years of techno-functional work exper
 
 **EDUCATION-**
 
-●University Of South Florida **(**B.I Track)MS in Business Analytics and Information Systems **[3.97 GPA]**      _Jan 2017-May 2018_
+●University Of South Florida (B.I Track)MS in Business Analytics and Information Systems **[3.97 GPA]**      _Jan 2017-May 2018_
 
 Honors: **Beta Gamma Sigma Academic Honors** Society
 
 ●Massachusetts Institute of Technology: Data Science – **[1.3 C.E.U]**  [Link](https://mitxpro.mit.edu/certificates/user/14246095/course/course-v1:MITProfessionalX+DSx+2017_T2)                                                         _May 2017-July 2017_
 
-●Uttar Pradesh Technical University: Bachelors, Computer Science **[University Merit Holder]**                  _Aug_  _2010- June 2014_
+●Uttar Pradesh Technical University: Bachelors, Computer Science **[University Merit Holder]**                  _Aug 2010-June 2014_
 
 **CORE COMPETENCIS-**
 

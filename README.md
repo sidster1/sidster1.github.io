@@ -1,6 +1,6 @@
 **SIDDHARTH**
 
-![alt text](https://imgur.com/qxiaip6)
+![Screen snapshot when request is made](https://github.com/aseemydv/PyDiction/blob/master/UI/snapshot-search.png)
 
 [siddharth10@mail.usf.edu](mailto:siddharth10@mail.usf.edu)● 646-400-9205 ● [LinkedIn](https://www.linkedin.com/in/siddharth-a8840480/) ● Tampa, FL
 

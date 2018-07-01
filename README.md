@@ -8,13 +8,13 @@ Information Management professional with 3 years of techno-functional work exper
 
 **EDUCATION-**
 
-●University Of South Florida **(**B.I Track)MS in Business Analytics and Information Systems **[3.97 GPA]      **_Jan 2017-May 2018_
+●University Of South Florida **(**B.I Track)MS in Business Analytics and Information Systems **[3.97 GPA]**      _Jan 2017-May 2018_
 
 Honors: **Beta Gamma Sigma Academic Honors** Society
 
-●Massachusetts Institute of Technology: Data Science – [**1.3 C.E.U]  ** [Link](https://mitxpro.mit.edu/certificates/user/14246095/course/course-v1:MITProfessionalX+DSx+2017_T2) **                                                       ** _May__2017- July 2017_
+●Massachusetts Institute of Technology: Data Science – **[1.3 C.E.U]**  [Link](https://mitxpro.mit.edu/certificates/user/14246095/course/course-v1:MITProfessionalX+DSx+2017_T2)                                                         _May 2017-July 2017_
 
-●Uttar Pradesh Technical University: Bachelors, Computer Science **[University Merit Holder]                ****  **_Aug_**  **_2010- June 2014_
+●Uttar Pradesh Technical University: Bachelors, Computer Science **[University Merit Holder]**                  _Aug_  _2010- June 2014_
 
 **CORE COMPETENCIS-**
 
@@ -26,7 +26,7 @@ Honors: **Beta Gamma Sigma Academic Honors** Society
 
 **Verizon, USA (In collaboration with University Of South Florida)**
 
-**Data Analyst Intern                                                                                                                      **                            _Oct 2017- Feb 2018_
+**_Data Analyst Intern_**                                                                                                                                                 _Oct 2017- Feb 2018_
 
 ●Upgraded executive dashboards for desktop web application using responsive framework.
 
@@ -38,9 +38,9 @@ Honors: **Beta Gamma Sigma Academic Honors** Society
 
 ●Requirement gathering and analysis using MS Excel.
 
-**HCL Technologies, India                                                                                                                                                                  **
+**HCL Technologies, India**                                                                                                                                                                
 
-**Business Analyst        ** _                                                                                                                                                   Sep 2014 - Dec 2016_
+**_Business Analyst_**                                                                                                                                                    _Sep 2014 - Dec 2016_
 
 ●Liaised with multiple stakeholders to gather and freeze business requirements, prepare proposals and project plans.
 
@@ -50,7 +50,7 @@ Honors: **Beta Gamma Sigma Academic Honors** Society
 
 **E-Soft Technologies, India**
 
-**Undergraduate Summer Intern                                                                                                                                          ** _Jun13 - Aug 13_
+**_Undergraduate Summer Intern_**                                                                                                                                           _Jun13 - Aug 13_
 
 ●Created a project which leveraged a triangular interaction among parents, teachers and students.
 

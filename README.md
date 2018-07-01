@@ -1,8 +1,5 @@
 **SIDDHARTH**
 
-![alt text](https://imgur.com/qxiaip6)
-
-
 [siddharth10@mail.usf.edu](mailto:siddharth10@mail.usf.edu)● 646-400-9205 ● [LinkedIn](https://www.linkedin.com/in/siddharth-a8840480/) ● Tampa, FL
 
 Information Management professional with 3 years of techno-functional work experience in Business Analysis , Data Analytics and Data Warehousing solutions.
